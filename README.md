@@ -1,4 +1,4 @@
-# truthsOfPredation
+# truthsOfPredatation
 Bloomberg coding challenge
 
 Truths of Predatation 
